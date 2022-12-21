@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GitHubSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-09T23:51:25" hostname="PELA" time="7.136">
+  <properties/>
+  <testcase name="checkGithubSearch()" classname="GitHubSearchTest" time="7.136"/>
+  <system-out><![CDATA[2022-12-09T20:51:32.167294900
+]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 18132
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
